@@ -1,5 +1,10 @@
 /* IMPORTS */
 /* VARIABLES */
+.botones {
+  background-color: #2741CC;
+  color: #fff;
+  border-color: #2741CC; }
+
 /*BLOQUES*/
 .body {
   font-family: 'Lato', sans-serif; }
@@ -83,6 +88,9 @@ h2 {
     background-color: #2741CC;
     color: #fff;
     border-color: #2741CC; }
+
+.form {
+  padding-top: 40px; }
 
 .footer {
   display: flex;
